@@ -58,6 +58,7 @@
                     <Button Content="Add Table" Click="Button_Click_1"/>
                 </StackPanel>
             </Viewbox>
+            <Button Content="Close" Width="80" Height="27" VerticalAlignment="Bottom" HorizontalContentAlignment="Center" HorizontalAlignment="Right" Click="Button_Click_2" VerticalContentAlignment="Center"/>
         </StackPanel>
     </Grid>
 </Window>
