@@ -23,6 +23,7 @@
             <Button x:Name="AddNewTableButton" Content="Add New Table" Click="AddNewTableButton_Click"/>
             <Button x:Name="DeleteTableButton" Content="Delete Table" Click="DeleteTableButton_Click"/>
             <Button x:Name="ViewTableButton" Content="Edit Table"  Click="ViewTableButton_Click" />
+            <Button Content="Close" Click="Button_Click"/>
         </StackPanel>
     </Grid>
 </Window>
